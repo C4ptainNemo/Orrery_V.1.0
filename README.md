@@ -1,5 +1,7 @@
 # Orrery Version 1.0
-{add photograph of the finished orrery}
+![orrery_v1](https://github.com/user-attachments/assets/cf311299-b3cc-4aeb-ba29-672896dedcd2)
+![orrery_v1_no_top](https://github.com/user-attachments/assets/f9ef8edb-0212-404f-84ec-17a4f3f0bd3b)
+
 This repository is used to showcase the first completed version of my orrery.
 
 The planets move on what is in escense slew rings, i.e. bearings with one of the rings having gear teeth to allow it to be driven. There are four sets of rings, each having a static ring that is mounted to the base, and two rotating rings, one per planet. These four sets of two make up the eight planets, Mercury & Venus, Earth & Mars, Jupiter & Saturn, Uranus & Neptune.
